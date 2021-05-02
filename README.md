@@ -55,5 +55,5 @@ time throughout the day:
 
 
 - Ayush Sharma [![Gmail: Ayush_Sharma](https://img.shields.io/badge/gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white)](mailto:ayushsh2601@gmail.com) [![Linkedin: ayush-sharma2601](https://img.shields.io/badge/-Ayush_Sharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush-sharma-07a571197)](https://www.linkedin.com/in/ayush-sharma-07a571197/)
-- Yash Janfir [![Gmail: Yash_Jangir](https://img.shields.io/badge/gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white)](mailto:offjangir@gmail.com) [![Linkedin: ayush-sharma2601](https://img.shields.io/badge/-Yash_Jangir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yash-jangir-6a71651a1)](https://www.linkedin.com/in/yash-jangir-6a71651a1/)
+- Yash Jangir [![Gmail: Yash_Jangir](https://img.shields.io/badge/gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white)](mailto:offjangir@gmail.com) [![Linkedin: ayush-sharma2601](https://img.shields.io/badge/-Yash_Jangir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yash-jangir-6a71651a1)](https://www.linkedin.com/in/yash-jangir-6a71651a1/)
 

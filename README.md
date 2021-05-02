@@ -28,7 +28,7 @@ time throughout the day:
 - 7:00pm to 00:00am: Level 2 (Nominal Level)
 2. The level sensors used are non contact as the water is used for drinking/hosehold purposes.
 3. The water in the main tank must be maintained at a constant value, if the level drops the motor is turned on
-[![Event Management App](https://img.shields.io/badge/-Event_Management_App-grey?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ritvij14/Event-management)](https://github.com/ritvij14/Event-management)
+
 <img alt="Tank Design" height="180" src="https://drive.google.com/file/d/1A8FPH4PlVv7jUkZgF6o-JOp2oNtZXjJV/view?usp=sharing" align="left"/>
 
 ### Build With

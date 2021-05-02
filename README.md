@@ -29,7 +29,6 @@ time throughout the day:
 2. The level sensors used are non contact as the water is used for drinking/hosehold purposes.
 3. The water in the main tank must be maintained at a constant value, if the level drops the motor is turned on
 
-<img alt="Tank Design" height="180" src="https://drive.google.com/file/d/1A8FPH4PlVv7jUkZgF6o-JOp2oNtZXjJV/view?usp=sharing" align="left"/>
 
 ### Build With
 
@@ -40,7 +39,9 @@ time throughout the day:
 
 ### Designs
 
-![image](https://drive.google.com/file/d/1A8FPH4PlVv7jUkZgF6o-JOp2oNtZXjJV);
+<p align="start">
+  <img src="https://github.com/ayush-sharma2601/SmartOverheadTank/blob/143cc685633fa6535048cfc14e16b34d9dac4b60/SYSTEM%20DESIGN%20updated%20(1).png?raw=true" width="350" title="hover text">
+</p>
 
 
 ## Contributing
